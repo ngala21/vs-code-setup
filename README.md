@@ -1,5 +1,6 @@
 # vs-code-setup
-All of the settings/extensions I use on vs-code
+
+![screenshot](assets/vs-code.png)
 
 # Font
 
